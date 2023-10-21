@@ -43,4 +43,13 @@ public class Address {
         return postalCode;
     }
 
+    @Override
+    public String toString() {
+        return "Address{" +
+                "street='" + street + '\'' +
+                ", city='" + city + '\'' +
+                ", number=" + number +
+                ", postalCode=" + postalCode +
+                '}';
+    }
 }

@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1198bed-7261-409d-b589-d658a22be9b3" name="Changes" comment="TODO define methods">
+    <list default="true" id="f1198bed-7261-409d-b589-d658a22be9b3" name="Changes" comment="Customer Nif verificator, isValid(), calcularLetra(), reserve(), countMembers(), countCustomer(), price() defined">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/Address.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/Court.java" beforeDir="false" afterPath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/Court.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/Equipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/Equipment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/Extra.java" beforeDir="false" afterPath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/Extra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/NIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/NIF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/PaddleManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/PaddleManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/Reservation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/Umpire.java" beforeDir="false" afterPath="$PROJECT_DIR$/paddleclub/src/org/ulpgc/is1/model/Umpire.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697892861955</updated>
-      <workItem from="1697892862958" duration="1456000" />
+      <workItem from="1697892862958" duration="2374000" />
     </task>
     <task id="LOCAL-00001" summary="TODO add attributes and methods">
       <option name="closed" value="true" />
@@ -82,7 +76,31 @@
       <option name="project" value="LOCAL" />
       <updated>1697893904710</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="methods defined">
+      <option name="closed" value="true" />
+      <created>1697894344448</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697894344448</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Court,Customer,Extra,Member equals added">
+      <option name="closed" value="true" />
+      <created>1697894659739</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697894659739</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Customer Nif verificator, isValid(), calcularLetra(), reserve(), countMembers(), countCustomer(), price() defined">
+      <option name="closed" value="true" />
+      <created>1697895093437</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697895093437</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +120,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TODO add attributes and methods" />
     <MESSAGE value="TODO define methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="TODO define methods" />
+    <MESSAGE value="methods defined" />
+    <MESSAGE value="Court,Customer,Extra,Member equals added" />
+    <MESSAGE value="Customer Nif verificator, isValid(), calcularLetra(), reserve(), countMembers(), countCustomer(), price() defined" />
+    <option name="LAST_COMMIT_MESSAGE" value="Customer Nif verificator, isValid(), calcularLetra(), reserve(), countMembers(), countCustomer(), price() defined" />
   </component>
 </project>

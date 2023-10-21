@@ -58,4 +58,14 @@ public class Customer {
         Customer customer = (Customer) o;
         return Objects.equals(name, customer.name) && Objects.equals(surname, customer.surname);
     }
+
+    @Override
+    public String toString() {
+        return "Customer{" +
+                "name='" + name + '\'' +
+                ", surname='" + surname + '\'' +
+                ", nif=" + nif.getNumber() +
+                ", reservations=" + reservations +
+                '}';
+    }
 }

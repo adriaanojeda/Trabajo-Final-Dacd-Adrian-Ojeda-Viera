@@ -45,4 +45,12 @@ public class Court {
         return Objects.equals(name, court.name) && type == court.type;
     }
 
+    @Override
+    public String toString() {
+        return "Court{" +
+                "name='" + name + '\'' +
+                ", type=" + type +
+                ", price=" + price +
+                '}';
+    }
 }

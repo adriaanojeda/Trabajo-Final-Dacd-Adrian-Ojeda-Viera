@@ -63,4 +63,16 @@ public class Reservation {
     public void setExtras(Extra extra) {
         if(!extras.contains(extra)) extras.add(extra);
     }
+
+    @Override
+    public String toString() {
+        return "Reservation{" +
+                "id=" + id +
+                ", date=" + date +
+                ", court=" + court.getName() +
+                ", customer=" + customer.getName() +
+                ", extras=" + extras +
+                ", price=" + price +
+                '}';
+    }
 }
