@@ -1,5 +1,7 @@
 package org.ulpgc.is1.model;
 
+import java.util.Objects;
+
 public class Court {
     private String name;
     private CourtType type;
@@ -33,6 +35,14 @@ public class Court {
 
     public String getPrice() {
         return String.valueOf(price);
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Court court = (Court) o;
+        return Objects.equals(name, court.name) && type == court.type;
     }
 
 }

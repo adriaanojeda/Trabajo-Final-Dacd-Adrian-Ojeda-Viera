@@ -2,6 +2,7 @@ package org.ulpgc.is1.model;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 public class Customer {
     private String name, surname;
@@ -48,6 +49,14 @@ public class Customer {
     }
     public void setReservations(Reservation reservation) {
         this.reservations.add(reservation);
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Customer customer = (Customer) o;
+        return Objects.equals(name, customer.name) && Objects.equals(surname, customer.surname);
     }
 
 

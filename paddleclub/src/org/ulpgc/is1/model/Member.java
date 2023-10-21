@@ -20,4 +20,5 @@ public  class Member extends Customer {
     public void setAddress(Address address) {
         this.address = address;
     }
+
 }
