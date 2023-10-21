@@ -46,6 +46,7 @@ public class PaddleManager {
 
     /// Crear una reserva por parte del primer cliente en la segunda pista.
     public void reserve(int index_c, int index_p){
+        getCustomers().get(index_c).setReservations(new Reservation(getCourts().get(index_p), getCustomers().get(index_c)));
     }
 
 
@@ -55,7 +56,16 @@ public class PaddleManager {
         return customers.size();
     }
     public int countMembers(){
-
+        int memberCount = 0;
+        for(Customer o: customers){
+            if(o instanceof Member){
+                memberCount++;
+            }
+        }
+        return memberCount;
     }
     public int countCustomer(){
+        int customerCount = customers.size() - countMembers();
+        return customerCount;
     }
+}

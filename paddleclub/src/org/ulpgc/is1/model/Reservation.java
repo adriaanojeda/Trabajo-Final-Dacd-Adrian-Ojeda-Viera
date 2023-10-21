@@ -21,7 +21,15 @@ public class Reservation {
         this.price = Integer.parseInt(getCourt().getPrice());
     }
 
-    public String price() {
+    public String price(){
+        if(!extras.isEmpty()){
+            for(Extra o : extras){
+                price = price + o.getPrice();
+            }
+            return String.valueOf(price);
+        }else {
+            return String.valueOf(price);
+        }
     }
 
     public int getId() {
@@ -53,7 +61,6 @@ public class Reservation {
     }
 
     public void setExtras(Extra extra) {
-        if (!extras.contains(extra)) extras.add(extra);
+        if(!extras.contains(extra)) extras.add(extra);
     }
-
 }
