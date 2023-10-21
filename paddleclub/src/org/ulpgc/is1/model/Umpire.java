@@ -10,9 +10,10 @@ public class Umpire extends Extra{
         this.surname = surname;
     }
     public void setName(String name) {
+        this.name = name;
     }
     public void setSurname(String surname) {
-
+        this.surname = surname;
     }
 
     @Override
@@ -20,3 +21,4 @@ public class Umpire extends Extra{
         return name + " " + surname;
     }
 }
+

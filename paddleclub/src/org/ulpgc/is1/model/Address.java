@@ -11,28 +11,36 @@ public class Address {
         this.postalCode = postalCode;
     }
 
-    public void setStreet() {
+    public void setStreet(String street) {
+        this.street = street;
     }
 
-    public void setCity() {
+    public void setCity(String city) {
+        this.city = city;
     }
 
-    public void setNumber() {
+    public void setNumber(int number) {
+        this.number = number;
     }
 
-    public void setPostalCode() {
+    public void setPostalCode(int postalCode) {
+        this.postalCode = postalCode;
     }
 
-    public void getStreet(){
+    public String getStreet() {
+        return street;
     }
 
-    public void getCity(){
+    public String getCity() {
+        return city;
     }
 
-    public void getNumber(){
+    public int getNumber() {
+        return number;
     }
 
-    public void getPostalCode(){
+    public int getPostalCode() {
+        return postalCode;
     }
 
 }

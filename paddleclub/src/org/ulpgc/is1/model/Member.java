@@ -9,14 +9,15 @@ public  class Member extends Customer {
         this.points = points;
     }
     public int getPoints() {
-
+        return points;
     }
     public Address getAddress() {
-
+        return address;
     }
     public void setPoints(int points) {
+        this.points = points;
     }
     public void setAddress(Address address) {
+        this.address = address;
     }
-
 }

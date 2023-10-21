@@ -11,32 +11,44 @@ public class Customer {
     public Customer(String name, String surname, String nf) {
         this.name = name;
         this.surname = surname;
-        this.nif = new NIF(nf);
+        NIF nif_p = new NIF(nf);
+        if (nif_p.isValid()){
+            this.nif = nif_p;
+        } else{
+            this.nif = new NIF("XXXX");
+        }
     }
-    public void getName() {
-    }
-
-    public void getSurname() {
-
-    }
-
-    public void getNif() {
-    }
-
-    public void getReservations() {
+    public String getName() {
+        return name;
     }
 
-    public void setName() {
+    public String getSurname() {
+        return surname;
+    }
+
+    public NIF getNif() {
+        return nif;
+    }
+
+    public List<Reservation> getReservations() {
+        return this.reservations;
 
     }
 
-    public void setSurname() {
+    public void setName(String name) {
+        this.name = name;
     }
 
-    public void setNif() {
+    public void setSurname(String surname) {
+        this.surname = surname;
+    }
 
+    public void setNif(NIF nif) {
+        this.nif = nif;
     }
-    public void setReservations() {
+    public void setReservations(Reservation reservation) {
+        this.reservations.add(reservation);
     }
+
 
 }

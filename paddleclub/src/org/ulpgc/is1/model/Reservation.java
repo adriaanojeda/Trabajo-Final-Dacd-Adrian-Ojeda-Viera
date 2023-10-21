@@ -18,40 +18,42 @@ public class Reservation {
         this.date = new Date();
         this.court = court;
         this.customer = customer;
-        this.price = 0;
+        this.price = Integer.parseInt(getCourt().getPrice());
     }
 
     public String price() {
     }
 
     public int getId() {
-
+        return id;
     }
 
     public Date getDate() {
-
+        return date;
     }
 
     public Court getCourt() {
-
+        return court;
     }
 
     public Customer getCustomer() {
-
+        return customer;
     }
 
     public List<Extra> getExtras() {
-
+        return extras;
     }
 
     public void setCourt(Court court) {
-
+        this.court = court;
     }
 
     public void setCustomer(Customer customer) {
-
+        this.customer = customer;
     }
 
     public void setExtras(Extra extra) {
+        if (!extras.contains(extra)) extras.add(extra);
     }
+
 }

@@ -1,6 +1,6 @@
 package org.ulpgc.is1.model;
 
-public class Equipment extends Extra {
+public class Equipment extends Extra{
 
     public String name;
 
@@ -10,11 +10,10 @@ public class Equipment extends Extra {
     }
 
     public void setName(String s) {
-
+        this.name = s;
     }
-
-
     @Override
-    public String getName() {
+    public String getName(){
+        return name;
     }
 }

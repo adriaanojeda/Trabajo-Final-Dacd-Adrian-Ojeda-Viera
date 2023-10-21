@@ -1,7 +1,6 @@
 package org.ulpgc.is1.model;
 
 public class Court {
-
     private String name;
     private CourtType type;
     private int price;
@@ -12,24 +11,28 @@ public class Court {
         this.price = price;
     }
 
-    public void setName() {
-
+    public void setName(String name) {
+        this.name = name;
     }
 
-    public void setType() {
+    public void setType(CourtType type) {
+        this.type = type;
     }
 
-    public void setPrice() {
+    public void setPrice(int price) {
+        this.price = price;
     }
 
-    public void getName() {
+    public String getName() {
+        return name;
     }
 
-    public void getType() {
+    public CourtType getType() {
+        return type;
     }
 
-    public void getPrice() {
+    public String getPrice() {
+        return String.valueOf(price);
     }
-
 
 }
