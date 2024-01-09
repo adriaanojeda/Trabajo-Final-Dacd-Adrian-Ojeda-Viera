@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R\Accidentes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R\Accidentes_Totales.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R\AfterSchool.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R\DatosEstudiantes2EII.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R\Diagrama_Dispersion.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R\Ejemplo_Ventas_2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R\Empleos_Informatica_Canarias_2009-18.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R\Full Desempleo 1990-2018 ESP.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R\Nivel_Ozono.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R\Notas_2019_20.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R\Octopus.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R\Vacas.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R\datos_decathlon_p100.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R\germination.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R\piramidepoblacion.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v5 (1)\Data_Labs_R\Accidentes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v5 (1)\Data_Labs_R\Accidentes_Totales.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v5 (1)\Data_Labs_R\AfterSchool.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v5 (1)\Data_Labs_R\DatosEstudiantes2EII.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v5 (1)\Data_Labs_R\Diagrama_Dispersion.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v5 (1)\Data_Labs_R\Ejemplo_Ventas_2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v5 (1)\Data_Labs_R\Empleos_Informatica_Canarias_2009-18.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v5 (1)\Data_Labs_R\Full Desempleo 1990-2018 ESP.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v5 (1)\Data_Labs_R\Nivel_Ozono.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v5 (1)\Data_Labs_R\Notas_2019_20.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v5 (1)\Data_Labs_R\Octopus.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v5 (1)\Data_Labs_R\Vacas.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v5 (1)\Data_Labs_R\datos_decathlon_p100.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v5 (1)\Data_Labs_R\germination.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v5 (1)\Data_Labs_R\piramidepoblacion.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v8\Data_Labs_R_v8\Accidentes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v8\Data_Labs_R_v8\Accidentes_Totales.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v8\Data_Labs_R_v8\AfterSchool.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v8\Data_Labs_R_v8\DatosEstudiantes2EII.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v8\Data_Labs_R_v8\Diagrama_Dispersion.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v8\Data_Labs_R_v8\Ejemplo_Ventas_2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v8\Data_Labs_R_v8\Empleos_Informatica_Canarias_2009-18.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v8\Data_Labs_R_v8\Full Desempleo 1990-2018 ESP.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v8\Data_Labs_R_v8\Nivel_Ozono.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v8\Data_Labs_R_v8\Notas_2019_20.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v8\Data_Labs_R_v8\Octopus.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v8\Data_Labs_R_v8\Vacas.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v8\Data_Labs_R_v8\datos_decathlon_p100.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v8\Data_Labs_R_v8\germination.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Downloads\Data_Labs_R_v8\Data_Labs_R_v8\piramidepoblacion.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\OneDrive\Escritorio\Practice1_V2-master\PredictionProvider\src\main\resources\Locations.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\OneDrive\Escritorio\Practice1_V2-master\PredictionProvider\target\classes\Locations.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\PredictionProvider\src\main\resources\locations.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
